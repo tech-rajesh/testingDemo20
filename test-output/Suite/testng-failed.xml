@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="5" name="OrangeHRMTest(failed)" parallel="tests">
+    <classes>
+      <class name="smokeTest.GoogleTest">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- smokeTest.GoogleTest -->
+    </classes>
+  </test> <!-- OrangeHRMTest(failed) -->
+  <test thread-count="5" name="GoogleTest(failed)" parallel="tests">
+    <classes>
+      <class name="smokeTest.GoogleTest">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- smokeTest.GoogleTest -->
+    </classes>
+  </test> <!-- GoogleTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

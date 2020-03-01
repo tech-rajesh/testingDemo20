@@ -1,0 +1,20 @@
+[0301/135427.299:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.301:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.301:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.301:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.301:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.305:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.635:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.636:ERROR:exception_snapshot_win.cc(98)] thread ID 8752 not found in process
+[0301/135427.655:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.656:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0301/135427.656:ERROR:exception_snapshot_win.cc(98)] thread ID 6468 not found in process
+[0301/135427.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.680:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135427.680:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0301/135427.680:ERROR:exception_snapshot_win.cc(98)] thread ID 9712 not found in process
+[0301/135449.527:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0301/135449.528:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0301/135449.528:ERROR:exception_snapshot_win.cc(98)] thread ID 10424 not found in process

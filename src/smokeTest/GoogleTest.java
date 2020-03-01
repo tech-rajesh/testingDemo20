@@ -15,6 +15,7 @@ public class GoogleTest {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com/");
+		System.out.println("Application title would be: " + driver.getTitle());
 		Assert.assertTrue(driver.getTitle().contains("Goog"));
 		
 	}

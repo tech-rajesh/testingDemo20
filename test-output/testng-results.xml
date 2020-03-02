@@ -2,22 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="11279" started-at="2020-03-01T14:43:54 IST" finished-at="2020-03-01T14:44:05 IST">
+  <suite name="Suite" duration-ms="8360" started-at="2020-03-02T15:04:57 IST" finished-at="2020-03-02T15:05:05 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="11279" started-at="2020-03-01T14:43:54 IST" finished-at="2020-03-01T14:44:05 IST">
-      <class name="smokeTest.OrangeHRMTest">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:smokeTest.OrangeHRMTest@26ba2a48]" name="loginTest" duration-ms="6155" started-at="2020-03-01T14:43:59 IST" finished-at="2020-03-01T14:44:05 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- smokeTest.OrangeHRMTest -->
+    <test name="OrangeHRMTest" duration-ms="7609" started-at="2020-03-02T15:04:57 IST" finished-at="2020-03-02T15:05:05 IST">
       <class name="smokeTest.GoogleTest">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:smokeTest.GoogleTest@42d3bd8b]" name="loginTest" duration-ms="5089" started-at="2020-03-01T14:43:54 IST" finished-at="2020-03-01T14:43:59 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:smokeTest.GoogleTest@1936f0f5]" name="loginTest" duration-ms="7574" started-at="2020-03-02T15:04:57 IST" finished-at="2020-03-02T15:05:05 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
       </class> <!-- smokeTest.GoogleTest -->
-    </test> <!-- Test -->
+    </test> <!-- OrangeHRMTest -->
+    <test name="GoogleTest" duration-ms="8360" started-at="2020-03-02T15:04:57 IST" finished-at="2020-03-02T15:05:05 IST">
+      <class name="smokeTest.GoogleTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:smokeTest.GoogleTest@dfd3711]" name="loginTest" duration-ms="8327" started-at="2020-03-02T15:04:57 IST" finished-at="2020-03-02T15:05:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- smokeTest.GoogleTest -->
+    </test> <!-- GoogleTest -->
   </suite> <!-- Suite -->
 </testng-results>

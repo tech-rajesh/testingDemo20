@@ -16,7 +16,7 @@ public class GoogleTest {
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com/");
 		System.out.println("Application title would be: " + driver.getTitle());
-		Assert.assertTrue(driver.getTitle().contains("Goog"));
+		Assert.assertTrue(driver.getTitle().contains("Yahoo"));
 		
 	}
 
